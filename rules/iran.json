@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "country": "IR",
+  "updated": "2026-10-21",
+  "defaultBlockedPrefixes": [
+    "0942"
+  ],
+  "policy": "A prefix may be enabled by default only after evidence review and false-positive assessment. Prefixes must be at least four domestic digits beginning with 0.",
+  "notes": "This catalog is bundled with the app and never fetched over the network. Users can add or remove prefixes locally."
+}
